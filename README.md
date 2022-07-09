@@ -1,10 +1,5 @@
 ### Ola sou Carlos
 
-
-**Carlos001-hash/Carlos001-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Minha area de trabalho é front-end
 - 🌱 Estudando react
 
