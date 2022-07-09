@@ -1,4 +1,4 @@
-### Ola sou Carlos
+### Ola! eu sou o Carlos Eduardo
 
 - 🔭 Minha area de trabalho é front-end
 - 🌱 Estudando react
